@@ -1,0 +1,2 @@
+# mygithub
+open my mind
